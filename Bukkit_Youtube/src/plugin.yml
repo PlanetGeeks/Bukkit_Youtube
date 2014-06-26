@@ -1,0 +1,5 @@
+name: Episodio1
+author: PlanetGeeks - Flood
+version: 1.0
+description: Plugin di prova
+main: it.planetgeeks.bukkit.episodio1.Episodio1
