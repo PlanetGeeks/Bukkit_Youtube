@@ -6,7 +6,7 @@ public class Episodio1 extends JavaPlugin
 {
     public void onEnable()
     {
-    	System.out.println("PLUGIN CARICATO CORRETTAMENTE");
+    	System.out.println("PLUGIN CARICATO CORRETTAMENTE"); 
     }
     
     public void onDisable()
