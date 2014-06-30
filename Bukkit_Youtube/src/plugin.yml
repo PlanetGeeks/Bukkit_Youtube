@@ -1,5 +1,22 @@
-name: Episodio1
+name: Episodio2
 author: PlanetGeeks - Flood
 version: 1.0
 description: Plugin di prova
-main: it.planetgeeks.bukkit.episodio1.Episodio1 
+main: it.planetgeeks.bukkit.episodio2.Episodio2 
+
+commands:
+   basic:
+      description: This is a demo command.
+      usage: /<command> [player]
+      permission: <plugin name>.basic
+      permission-message: You don't have <permission>
+   basic2:
+      description: This is a demo command.
+      usage: /<command> [player]
+      permission: <plugin name>.basic2
+      permission-message: You don't have <permission>
+   basic3:
+      description: This is a demo command.
+      usage: /<command> [player]
+      permission: <plugin name>.basic3
+      permission-message: You don't have <permission>
